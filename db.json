@@ -1,0 +1,124 @@
+{
+  "expenses": [
+    {
+      "title": "Sample",
+      "date": "2023-11-18",
+      "categoryId": 1,
+      "amount": "150.00",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "title": "Sample",
+      "date": "2023-11-19",
+      "categoryId": 2,
+      "amount": "100",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "title": "Test",
+      "date": "2023-11-20",
+      "categoryId": 3,
+      "amount": "200",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "title": "Old date",
+      "date": "2023-11-01",
+      "categoryId": 1,
+      "amount": "500",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "title": "Moti",
+      "date": "2023-11-23",
+      "categoryId": 4,
+      "amount": "600",
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "title": "Jug",
+      "date": "2023-11-24",
+      "categoryId": 1,
+      "amount": "500",
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "title": "Veternary charge",
+      "date": "2023-11-23",
+      "categoryId": 1,
+      "amount": "200",
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "title": "Meow",
+      "date": "2023-11-22",
+      "categoryId": 4,
+      "amount": "10",
+      "userId": 1,
+      "id": 8
+    },
+    {
+      "title": "Lorem Ipsum",
+      "date": "2023-11-23",
+      "categoryId": 2,
+      "amount": "25",
+      "userId": 1,
+      "id": 9
+    },
+    {
+      "title": "Phone",
+      "date": "2023-11-21",
+      "categoryId": 2,
+      "amount": "47",
+      "userId": 1,
+      "id": 10
+    },
+    {
+      "title": "Coffee",
+      "date": "2023-11-22",
+      "categoryId": 3,
+      "amount": "10",
+      "userId": 1,
+      "id": 11
+    },
+    {
+      "title": "Bisi Bele Bath",
+      "date": "2023-11-21",
+      "categoryId": 3,
+      "amount": "300",
+      "userId": 1,
+      "id": 12
+    },
+    {
+      "title": "Swift",
+      "date": "2023-11-26",
+      "categoryId": 2,
+      "amount": "1000",
+      "userId": 1,
+      "id": 14
+    },
+    {
+      "title": "Metro",
+      "date": "2023-11-27",
+      "categoryId": 2,
+      "amount": "37",
+      "userId": 1,
+      "id": 15
+    }
+  ],
+  "categories": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "Srinivasan"
+    }
+  ],
+  "settings": []
+}
